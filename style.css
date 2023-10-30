@@ -35,6 +35,11 @@ nav a {
     font-weight: lighter;
 }
 
+nav a:hover {
+    text-decoration: underline;
+    color: #FC00FF;
+}
+
 #banner {
     width: 100%;
 }
